@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Turns Zombiefied Piglins into Zomie Pigmen, like how the used to be before 1.16",
+		"name": "§1TheAlienDoctor's §eZombie Piglin to Zombie Pigmen §4[V1.01]",
+		"uuid": "b3101e1d-0983-4ebc-8951-84c5a1d3f28e",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Turns Zombiefied Piglins into Zombie Pigmen, like how the used to be before 1.16",
+			"type": "resources",
+			"uuid": "1dc60045-c6ff-4ca4-8458-1e25ce935ad3",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}
