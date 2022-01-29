@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9Changes the Zombie Piglins back to the pre-1.16 Zombie Pigman texture §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
-        "name": "§1Alien's §ePiglin to Pigman pack §4(V1.0.2)",
+        "description": "§9Turns the 1.16 Zombie Piglins into Zombie Pigmen from pre 1.16 §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
+        "name": "§1Alien's §ePiglin to pigman pack §4(V1.0.2)",
         "uuid": "152788e0-31c0-4e1f-b561-0de0ec2854ec",
         "version": [
             1,
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "§9Changes the Zombie Piglins back to the pre-1.16 Zombie Pigman texture §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
+            "description": "§9Turns the 1.16 Zombie Piglins into Zombie Pigmen from pre 1.16 §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
             "type": "resources",
             "uuid": "ae3d8b1b-8c77-4512-8107-fa5bfd57ea96",
             "version": [
