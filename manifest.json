@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9Turns the 1.16 Zombie Piglins into Zombie Pigmen from pre 1.16 §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
-        "name": "§1Alien's §ePiglin to pigman pack §4(V1.0.2)",
+		"description": "§rTurns the 1.16 Zombie Piglins back to pre 1.16 Zombie Pigmen. | §3By TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.3 §r",
+		"name": "§1§lAlien's§r §ePack name §4(RP-V1.0.3)§r",
         "uuid": "152788e0-31c0-4e1f-b561-0de0ec2854ec",
         "version": [
             1,
             0,
-            2
+            3
         ],
         "min_engine_version": [
             1,
@@ -17,14 +17,21 @@
     },
     "modules": [
         {
-            "description": "§9Turns the 1.16 Zombie Piglins into Zombie Pigmen from pre 1.16 §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2",
+		"description": "§rTurns the 1.16 Zombie Piglins back to pre 1.16 Zombie Pigmen. | §3By TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.3 §r",
             "type": "resources",
             "uuid": "ae3d8b1b-8c77-4512-8107-fa5bfd57ea96",
             "version": [
                 1,
                 0,
-                2
+                3
             ]
         }
-    ]
+    ],
+    "metadata": {
+		"authors": [
+			"TheAlienDoctor"
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
 }
